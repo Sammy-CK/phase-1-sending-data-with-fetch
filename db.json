@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,78 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Sam",
+      "email": "@themail",
+      "id": 1
+    },
+    {
+      "name": "Sam",
+      "email": "@themail",
+      "id": 2
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Sammy",
+      "email": "star@gmail.com",
+      "id": 13
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
